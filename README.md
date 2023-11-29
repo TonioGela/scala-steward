@@ -1,4 +1,4 @@
-# diy-steward
+# DIY-steward
 Set up your very own Scala Steward!
 
 1. Use this template to create a new repo.

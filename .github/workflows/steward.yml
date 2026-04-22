@@ -30,5 +30,4 @@ jobs:
           github-token: ${{ steps.generate-token.outputs.token }}
           author-email: 135588411+toniogela-s-scala-steward[bot]@users.noreply.github.com
           author-name: "TonioGela's Scala Steward[bot]"
-          github-app-id: 342893
-          github-app-key: ${{ secrets.APP_PRIVATE_KEY }}
+          repos-file: 'repos.md'

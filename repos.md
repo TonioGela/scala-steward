@@ -1,3 +1,1 @@
-- TonioGela/base.g8
 - TonioGela/cross
-- TonioGela/conservami
